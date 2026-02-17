@@ -22,13 +22,13 @@ const Projects = () => {
     {
       title: "React Portfolio Website",
       description: "A responsive personal portfolio built using React.js and CSS3.",
-      image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      image: "https://res.cloudinary.com/dvvl4i8q9/image/upload/v1771311845/images_qlhdnm.jpg",
       link: "#"
     },
     {
       title: "Movie Info App",
       description: "A movie information app that fetches data from an API using JavaScript.",
-      image: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+      image: "https://res.cloudinary.com/dvvl4i8q9/image/upload/v1771311845/images_1_k6wekk.jpg",
       link: "#"
     },
     {

@@ -34,7 +34,7 @@ const Projects = () => {
     {
       title: "E-commerce Landing Page",
       description: "A modern e-commerce landing page using HTML5, CSS Grid, and Flexbox.",
-      image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+      image: "https://res.cloudinary.com/dvvl4i8q9/image/upload/v1771311845/corporate-website-landing-page-creative-banner-template_6179870.jpg_sw800_wohswk.jpg",
       link: "#"
     }
   ];

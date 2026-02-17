@@ -19,7 +19,7 @@ const About = () => {
         </div>
 
         <div className="about-image">
-          <img src="https://i.imgur.com/8Km9tLL.png" alt="John Mithamo" />
+          <img src="https://res.cloudinary.com/dvvl4i8q9/image/upload/v1771311847/IMG_20260217_092815_175_utab8e.jpg" alt="John Mithamo" />
         </div>
       </div>
     </section>
